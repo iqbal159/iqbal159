@@ -9,7 +9,7 @@
  </h1>
 
 <!-- Quote -->
-<p align="center">An Engineer who want to launched his career into a Big Data roles!</p>
+<p align="center">An Engineer who want to launch his career into a Big Data roles!</p>
   
   <!-- Social Network -->
 <h1 align="center">
@@ -57,28 +57,18 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/713e523e-1d4a-4a0f-813d-ff8ad77e2a46"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/fa104942-4adc-4b08-b7f9-455a48dac924"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/b9eddfef-8e7e-436b-aca5-0bcad114caf7"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/22fed9d9-df5d-4df3-85c5-15d0a4a0a9bf"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100307358-3c068b00-2f6b-11eb-9f07-e262ad248471.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686553-d4170380-0bbb-11eb-94f2-c528413c7bad.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687569-95844780-0bc1-11eb-8bdb-93fb29d10602.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687639-117e8f80-0bc2-11eb-8aea-f236a8eca50b.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/c536dd9b-2a66-40aa-8a94-35518fbfd681"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/b5ff8703-2887-4807-86e4-2969e580fbc3"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/56f0592a-55c7-4d27-810e-1acc08fddfee"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/e7ca5385-3d2a-446c-9528-38974d099fe5"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/96e372c5-7cac-46cf-b391-8687b25a59e4"></code>
 
   </p>
   
