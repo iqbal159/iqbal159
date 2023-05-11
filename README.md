@@ -77,12 +77,10 @@
   <!-- Skills to learn -->
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/f60c68b0-f551-474b-9b99-2d8192f40fea"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/4265d098-b704-4601-b0c6-3e6ae8e9f169"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/7a2eebbf-4344-4097-886a-38c3b591329e"></code>  
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/b7360aed-776c-4363-9a5c-4c7c6b0f5c04"></code> 
   
   </p>
 &nbsp;
@@ -95,15 +93,15 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/Lunox-code?tab=repositories">
+<a href="https://github.com/iqbal159?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Lunox's favorite languages" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal159&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       alt='Iqbal's favorite languages" />
 </a>
   
-<a href="https://github.com/Lunox-code">
+<a href="https://github.com/iqbal159">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-stats.vercel.app/api?username=iqbal159&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
 
                                                                                                                                             
