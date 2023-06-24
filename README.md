@@ -70,9 +70,6 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
-  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/713e523e-1d4a-4a0f-813d-ff8ad77e2a46"></code>
-  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/fa104942-4adc-4b08-b7f9-455a48dac924"></code>
-  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/b9eddfef-8e7e-436b-aca5-0bcad114caf7"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/22fed9d9-df5d-4df3-85c5-15d0a4a0a9bf"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
