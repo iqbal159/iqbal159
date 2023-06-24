@@ -9,7 +9,7 @@
  </h1>
 
 <!-- Quote -->
-<p align="center">An Engineer who want to launch his career into a Big Data roles!</p>
+<p align="center">Highly skilled design engineer with a strong track record of success in creating innovative and efficient solutions. I am now seeking to leverage my technical expertise and analytical mindset to transition into a rewarding career in big data roles. With a solid foundation in engineering principles and a passion for data analysis, I am excited to apply my problem-solving abilities and contribute to the growing field of big data.</p>
   
   <!-- Social Network -->
 <h1 align="center">
@@ -43,9 +43,6 @@
   </a>
 </h1>
 
-
-
-
 <!-- Background -->
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
@@ -54,6 +51,22 @@
 
 &nbsp;
 
+<!-- Certificates -->
+<p><H3 align="center"><strong> Certificates:  </strong></p>
+  
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/713e523e-1d4a-4a0f-813d-ff8ad77e2a46"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/fa104942-4adc-4b08-b7f9-455a48dac924"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/b9eddfef-8e7e-436b-aca5-0bcad114caf7"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/f75c65a4-e015-48fe-956d-ecc92920ba52"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/8a02001b-9f7c-448e-b5dd-d4c87dbefab3"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/6e9c1027-bd9a-4518-b845-d9e556653fed"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/70de897e-f6fc-4ebe-873d-dfb2ee86abfc"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/e457b911-c8fc-42e0-92e8-82c6c84973c8"></code>
+  <code><img height="40" src="(https://github.com/iqbal159/iqbal159/assets/130142247/3e66e239-c7b4-498c-85b6-4d5130060d79"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/c37e649d-3b09-4345-a263-0e3957e00960"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/15d4bf58-22d5-41f7-8c66-8a83cf32f5b8"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/35e71106-5f92-4cb0-a52e-3a485e2fdcae"></code>
+  
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
   
