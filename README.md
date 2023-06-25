@@ -79,6 +79,8 @@
   <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/56f0592a-55c7-4d27-810e-1acc08fddfee"></code>
   <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/e7ca5385-3d2a-446c-9528-38974d099fe5"></code>
   <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/96e372c5-7cac-46cf-b391-8687b25a59e4"></code>
+  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/4265d098-b704-4601-b0c6-3e6ae8e9f169"></code>
+   <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/b7360aed-776c-4363-9a5c-4c7c6b0f5c04"></code> 
 
   </p>
   
@@ -88,10 +90,8 @@
 <p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
   
   <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/f60c68b0-f551-474b-9b99-2d8192f40fea"></code>
-  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/4265d098-b704-4601-b0c6-3e6ae8e9f169"></code>
   <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/7a2eebbf-4344-4097-886a-38c3b591329e"></code>  
-  <code><img height="40" src="https://github.com/iqbal159/iqbal159/assets/130142247/b7360aed-776c-4363-9a5c-4c7c6b0f5c04"></code> 
-  
+   
   </p>
 &nbsp;
 
