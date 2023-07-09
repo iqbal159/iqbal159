@@ -51,10 +51,9 @@
 
 📥 I am actively expanding my knowledge and skills in pursuit of a career in big data. 
 
-<br>You can visit my Portfolio here: [Portfolio](https://iqbal159.github.io/)
 <br>My current certificates earn: [Certificates](https://github.com/iqbal159/Certificates)
+<br>In progress📄 Do visit my portfolio's website at <a href="https://iqbal159.github.io" target="_blank">Iqbal's Portfolio</a>
 
-<!-- In progress📄 Do visit my portfolio's website at [iqbal159.github.io](https://iqbal159.github.io)-->
 
 <!-- GitHub Stats -->
 <H2 align="center"><strong>GitHub Statistics: 📈
