@@ -52,7 +52,7 @@
 📥 I am actively expanding my knowledge and skills in pursuit of a career in big data. 
 
 <br>My current certificates earn: [Certificates](https://github.com/iqbal159/Certificates)
-<br>In progress📄 Do visit my portfolio's website at <a href="https://iqbal159.github.io" target="_blank" rel="noopener">Iqbal's Portfolio</a><br>
+<br>📄 Do visit my portfolio's website at <a href="https://iqbal159.github.io" target="_blank" rel="noopener">Iqbal's Portfolio</a><br>
 
 
 
